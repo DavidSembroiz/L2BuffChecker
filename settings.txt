@@ -1,0 +1,4 @@
+395
+680
+C:\Games\L2BuffChecker\.\audios\coin.wav
+C:\Games\L2BuffChecker\.\audios\message.wav
